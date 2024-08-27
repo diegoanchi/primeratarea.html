@@ -1,0 +1,32 @@
+body {
+  background-image: url(autoprime.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+h1 {
+  color: aliceblue;
+}
+p {
+  color: aliceblue;
+}
+h2 {
+  color: aliceblue;
+}
+label {
+  color: aliceblue;
+}
+img {
+  background-image: url(autoprime.jpg);
+  width: 100px;
+  height: 100px;
+  border-radius: 25px;
+}
+
+.principal {
+  background-image: url(model.jpg);
+  width: 300px;
+  height: 300;
+  border-radius: 25px;
+}
